@@ -1,0 +1,94 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: rgb(245, 249, 253);
+}
+header {
+    background-color: rgb(55, 158, 226);
+    height: 4em;
+    color: rgb(0, 0, 0);
+    margin-bottom: 2em;
+    position:static;
+    width: 100%;
+    height: 100%;
+}
+header h2 {
+    font-size: 2,50em;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.fadeOut {
+    opacity: 0;
+    transition: 0.8s;
+}
+.container {
+    width: 60%;
+    height: 100%;
+    margin: 0 auto;
+}
+section h2 {
+    font-size: 3em;
+    display: block;
+
+}
+table {
+    width: 100%;
+    margin-bottom: .4em;
+    table-layout: initial;
+
+}
+td,th {
+    padding: .9em;
+    margin: 0;
+    border: 1px solid rgb(55, 158, 226);
+    text-align: center;
+}
+th {
+    font-weight: bolder;
+    background-color: rgb(55, 158, 226);
+}
+label {
+    color: rgb(0, 0, 0);
+    display: block;
+    margin-bottom: .3em;
+}
+.legenda {
+    margin: 0;
+    padding-bottom: 1em;
+    width: 100%;
+    border: 1px solid rgb(55, 158, 226);
+    padding: .7em;
+    width: 100%;
+}
+.legenda legenda-media {
+    display: inline-block;
+    padding-right: .5em;
+}
+.cadastro {
+    width: 33%;
+    display: contents;
+    padding: 10px 0px;
+}
+button {
+    padding: .5em 2em;
+    border: 0;
+    font-size: 1.3em;
+    cursor: default;
+    margin: 1;
+    margin-top: -3px;
+    color: #fff;
+    background-color: rgb(55, 158, 226);
+    width: 25%;
+    height: 1, 50em;
+    display: flex;
+    clear: initial;
+    margin: 10px 0px;
+
+}
+#mensagens-erro {
+    color: rgb(0, 0, 0);
+}
+* {
+    box-sizing: border-box;
+}
