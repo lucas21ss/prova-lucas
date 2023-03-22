@@ -1,0 +1,1 @@
+A execução do seu HTML foi correta, sua estilização está ok, porém parte foi copiada do arquivo de base, você conseguiu extruturar seus arquivos e conseguiu colocar parte das funcionalidades em javascript. seu Nivel é 3 e sua nota foi 4,0.
